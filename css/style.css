@@ -330,7 +330,7 @@ body {
 /* primary section */
 .hero-bg {
     height: 33rem;
-    background: no-repeat center/contain url("/img/padel-intro.png");
+    background: no-repeat center/contain url("/img/padel-intro.svg");
 }
 
 /* third section */
@@ -720,7 +720,7 @@ footer .container {
 
     /* footer */
     .logo {
-        margin: 0;
+        margin-left: -.4rem;
     }
 
     .footer-copyRight {
