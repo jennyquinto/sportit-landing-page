@@ -566,7 +566,10 @@ footer .container {
 
 /* ----------------------------------------- MEDIA QUERY ---------------------------------------- */
 @media (min-width: 481px) {
-
+    html,
+    body {
+        font-size: 11pt;
+    }
     /* text */
     .br {
         display: inline-block;
