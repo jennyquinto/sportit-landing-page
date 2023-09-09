@@ -330,7 +330,7 @@ body {
 /* primary section */
 .hero-bg {
     height: 33rem;
-    background: no-repeat center/contain url("/img/padel-intro.svg");
+    background: no-repeat center/contain url("/img/bg-hero.svg");
 }
 
 /* third section */
@@ -518,8 +518,9 @@ footer .container {
 /* ---------------------------------------- EFFECTS RULES --------------------------------------- */
 /* shadow button */
 
-.btn[data-type="toggle"] svg {
+.bg-btn[data-type="toggle"]{
     fill: rgba(0 0 0 / 1);
+    font-size: 2.5rem;
 }
 .btn[data-position="right"] {
     align-self: flex-end;
