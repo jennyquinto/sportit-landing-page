@@ -517,6 +517,10 @@ footer .container {
 
 /* ---------------------------------------- EFFECTS RULES --------------------------------------- */
 /* shadow button */
+
+.btn[data-type="toggle"] svg {
+    fill: rgba(0 0 0 / 1);
+}
 .btn[data-position="right"] {
     align-self: flex-end;
 }
