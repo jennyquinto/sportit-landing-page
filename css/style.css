@@ -565,7 +565,7 @@ footer .container {
 }
 
 /* ----------------------------------------- MEDIA QUERY ---------------------------------------- */
-@media (min-width: 481px) {
+@media (min-width: 30rem) {
     html,
     body {
         font-size: 11pt;
